@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and backup files
+.vscode/
+*.swp
+*.bak
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
